@@ -49,10 +49,6 @@ A comprehensive feature flag management system built with FastAPI and PostgreSQL
    docker-compose exec api alembic upgrade head
    ```
 
-4. **Access the API**:
-   - API: http://localhost:8000
-   - Swagger Docs: http://localhost:8000/docs
-   - ReDoc: http://localhost:8000/redoc
 
 ### Local Development
 
