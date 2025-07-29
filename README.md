@@ -4,15 +4,15 @@ A comprehensive feature flag management system built with FastAPI and PostgreSQL
 
 ## Features
 
-- 🔐 **JWT Authentication** - Secure user login/signup with JWT tokens
-- 👥 **Role-Based Access Control** - Admin and Developer roles with different permissions
-- 🚩 **Feature Flag Management** - Full CRUD operations for feature flags
-- 📁 **Project Organization** - Associate feature flags with projects
-- 🌍 **Environment Support** - Dev, Staging, and Production environments
-- 🎯 **User Group Targeting** - Optional targeting by user groups
-- 📊 **Swagger Documentation** - Interactive API documentation
-- 🐳 **Docker Support** - Easy deployment with Docker Compose
-- 🔄 **Database Migrations** - Alembic for schema management
+- **JWT Authentication** - Secure user login/signup with JWT tokens
+- **Role-Based Access Control** - Admin and Developer roles with different permissions
+- **Feature Flag Management** - Full CRUD operations for feature flags
+- **Project Organization** - Associate feature flags with projects
+- **Environment Support** - Dev, Staging, and Production environments
+- **User Group Targeting** - Optional targeting by user groups
+- **Swagger Documentation** - Interactive API documentation
+- **Docker Support** - Easy deployment with Docker Compose
+- **Database Migrations** - Alembic for schema management
 
 ## Tech Stack
 
